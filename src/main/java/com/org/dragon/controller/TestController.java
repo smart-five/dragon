@@ -24,9 +24,6 @@ public class TestController {
         return null;
     }
 
-    public static void main(String[] args) {
-
-    }
 }
 
 
